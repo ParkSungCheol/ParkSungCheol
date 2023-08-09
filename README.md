@@ -1,6 +1,7 @@
-### Hi there 안녕하세요 금융에 관심이 많은 백엔드 주니어 개발자입니다. 👋
+<div align="center">
+<h4>Hi there 안녕하세요 </h4>
+<h3>금융에 관심이 많은 백엔드 개발자입니다. 👋</h3>
 <br/>
-<div align="center" margin="2px">
   Email : skfo8gmlakd@naver.com<br/>
   <br/>
   Portfolio : [ 노션주소 추가예정 ]<br/>
