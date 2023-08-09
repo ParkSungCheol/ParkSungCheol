@@ -10,6 +10,7 @@
   <br/>
   <hr>
   📚 Tech Stack 📚<br/>
+  [ 추후 추가예정 ]<br/>
   <br/>
   🏆 Baekjoon solved rank 🏆<br/>
   <br/>
