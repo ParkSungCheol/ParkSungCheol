@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Solved.ac/profile/skfo8gmlakd](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac/
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/skfo8gmlakd)
 <!--
 **ParkSungCheol/ParkSungCheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
