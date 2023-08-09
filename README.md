@@ -1,6 +1,6 @@
 <div align="center">
 <h4>Hi there 안녕하세요 </h4>
-<h3>금융에 관심이 많은 백엔드 개발자입니다. 👋</h3>
+<h3>금융에 관심이 많은 개발자입니다. 👋</h3>
 <br/>
   Email : skfo8gmlakd@naver.com<br/>
   <br/>
