@@ -4,7 +4,7 @@
 <br/>
   Email : skfo8gmlakd@naver.com<br/>
   <br/>
-  Portfolio : <a href="https://same-pedestrian-031.notion.site/61757c70a5c14ec990d587ef76dab230?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="200"/></a> <br/>
+  Portfolio : <a href="https://same-pedestrian-031.notion.site/61757c70a5c14ec990d587ef76dab230?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="30"/></a> <br/>
   <br/>
   Blog : https://believeme.tistory.com<br/>
   <br/>
