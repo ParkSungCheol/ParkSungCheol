@@ -19,7 +19,7 @@
   [ Library & Framework ]<br/><br/>
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/6e73baa9-a104-41e7-b50b-836864862309" height="80">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/e3533977-c7a0-430c-9499-31822115d0ed" height="80">
+  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/574185f9-24c4-4b6f-9f08-f8f86cb0b9f6" height="80">
   <br/><br/>
   🏆 Baekjoon solved rank 🏆<br/>
   <br/>
