@@ -27,7 +27,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/f3ebe388-243b-4d3f-b2bf-0eb4ca8a647f" height="80">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/f89158cd-7167-4b42-a4e7-1411a33ec059" height="80">
+  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/a567ba18-06c1-43d3-a946-efc78287e594" height="80">
   <br/><br/>
   🏆 Baekjoon solved rank 🏆<br/>
   <br/>
