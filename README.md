@@ -12,7 +12,7 @@
   📚 Tech Stack 📚<br/>
   <br/>
   Language<br/>
-  ![image](https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/13e22926-6584-4c02-973c-058473bc20c9)
+  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/13e22926-6584-4c02-973c-058473bc20c9">
   <br/>
   🏆 Baekjoon solved rank 🏆<br/>
   <br/>
