@@ -50,7 +50,6 @@
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/95ee7800-4634-4447-8165-943e06065031" height="80">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/d3b48a75-2e6d-4ac8-b8e4-fa8f7e20b2f0" height="80">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/398f9ef9-bcb3-4893-9bed-793ec6662712" height="80">
   <br/><br/>
   🏆 Baekjoon solved rank 🏆<br/>
