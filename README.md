@@ -11,9 +11,9 @@
   <hr>
   📚 Tech Stack 📚<br/>
   <br/>
-  Language<br/>
-  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/13e22926-6584-4c02-973c-058473bc20c9" height="100">
-  <br/>
+  Language<br/><br/>
+  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/13e22926-6584-4c02-973c-058473bc20c9" height="80">
+  <br/><br/>
   🏆 Baekjoon solved rank 🏆<br/>
   <br/>
   <a href="https://solved.ac/profile/skfo8gmlakd"><img src="http://mazassumnida.wtf/api/generate_badge?boj=skfo8gmlakd"/></a>
