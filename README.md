@@ -41,6 +41,7 @@
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/00e765eb-fad9-4028-a873-ed266620d44a" height="80">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/5880225a-206d-41fd-8972-9d6eb0999f9d" height="80">
+  <br/><br/>
   🏆 Baekjoon solved rank 🏆<br/>
   <br/>
   <a href="https://solved.ac/profile/skfo8gmlakd"><img src="http://mazassumnida.wtf/api/generate_badge?boj=skfo8gmlakd"/></a>
