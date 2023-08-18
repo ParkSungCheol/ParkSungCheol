@@ -52,6 +52,11 @@
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/d3b48a75-2e6d-4ac8-b8e4-fa8f7e20b2f0" height="80">
   <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/398f9ef9-bcb3-4893-9bed-793ec6662712" height="80">
   <br/><br/>
+  [ ETC ]<br/><br/>
+  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/259fe774-51cf-4fe1-b7ae-ff8d84ef0941" height="80">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ParkSungCheol/ParkSungCheol/assets/93702296/da6225a3-d830-434c-bf28-d39ddc02668c" height="80">
+  <br/><br/>
   🏆 Baekjoon solved rank 🏆<br/>
   <br/>
   <a href="https://solved.ac/profile/skfo8gmlakd"><img src="http://mazassumnida.wtf/api/generate_badge?boj=skfo8gmlakd"/></a>
